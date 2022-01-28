@@ -12,6 +12,6 @@ You might have a question about why I am doing this?! . I believe the best way o
 Prof. Andrew Ng, certaficate on DL will teach me somethings I can use in the future. But my goal is develp tools and find a way to do it much easily and faster. 
 Since, I have background in CS and Math (Calculus, Linear Algebra, Probabilities) . I say why not develop library while learning DL that will teach me the limit of DL and try to surpass that limit and be passionate about it as well. 
 
-# Updating Every Two Weeks 
+# Updating Every Month
 
-This Document will keep updating every two weeks about the things I WILL BE ADDING SO KEEP ON EYE ON THAT. 
+This Document will keep updating every Month about the things I WILL BE ADDING SO KEEP ON EYE ON THAT. 
